@@ -3,7 +3,7 @@ External AGC/LGC DSKY for ReEntry
 ![test](https://github.com/DevLAN-org/ReEntry_ExtView/assets/6547632/56fed43c-b784-4bb4-a0cc-daac43079301)
 
 
-Compiled on VS2022 17.10.3 // .NET Framework 4.8.1</br>
+Compiled on VS2022 17.10.3 // Requires .NET Framework 4.8.1</br>
 by Sputterfish
 
 This project uses fonts from the DSKY-FONTS project @ https://github.com/ehdorrii/dsky-fonts
