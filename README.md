@@ -14,7 +14,7 @@ The source code of these projects is available at the following repos.</br>
 https://github.com/DevLAN-org/AGC-Ex</br>
 https://github.com/DevLAN-org/LGC-Ex
   
- For the game ReEntry an External Viewer of AGC/LGC data output and built-in UDP API commands for the AGC/LGC DSKY.
+ For the game ReEntry an External Viewer of AGC/LGC data output and DSKY functionality.
 
 
 
