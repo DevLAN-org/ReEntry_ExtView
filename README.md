@@ -24,4 +24,5 @@ Instructions:</br>
 3. Open the AGC or LGC application. They may both be open at the same time.</br>
 4. Hit the "POWER" icon in the bottom right corner of the AGC/LGC Viewer to begin reading the ReEntry JSON output. ( This only needs to happen one time )</br>
 5. If needed use the darkmode icon to toggle a dark setting.</br>
-6. All DSKY keys function over ReEntry UDP cmds.
+6. All DSKY keys function over ReEntry UDP cmds.</br>
+7. To close the application(s) use Alt+F4 or right-click close from the taskbar icon(s).
